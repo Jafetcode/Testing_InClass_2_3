@@ -1,1 +1,2 @@
-Hello, this is the first text and edited in the origin. Now changed in branch 
+
+Hello, this is the first text and edited in the origin. Now changed in branch BRANCH CHANGED THIS LINE.
